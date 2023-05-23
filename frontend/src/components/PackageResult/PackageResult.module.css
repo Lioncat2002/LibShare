@@ -1,0 +1,22 @@
+.result {
+    padding:2em;
+    border-radius: 12px;
+    font-size:18px ;
+    line-height: 24px;
+    letter-spacing:1px;
+}
+
+
+.heading {
+    font-size: 24px !important ;
+}
+
+
+.wrapper {
+    padding: 0 2em 0 0;
+    background-color: #f9f7ed;
+    display: flex;
+    align-items: center;
+    gap: 8em;
+
+}

@@ -1,0 +1,33 @@
+.package_version {
+    color: #707070;
+    font-weight: 400;
+    font-size: 0.7rem;
+  }
+  
+  .package_content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 2em;
+    width: 100%;
+  }
+  
+  .package_title {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #363636;
+    padding-bottom: 0.5em;
+  }
+  
+  .package {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f7ed;
+  
+    width: 326px;
+    height: 91px;
+    border-radius: 12px;
+    align-items: flex-start;
+    padding: 12px;
+  }

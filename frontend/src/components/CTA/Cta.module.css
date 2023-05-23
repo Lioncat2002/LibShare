@@ -1,0 +1,50 @@
+.searchbar {
+    width: 30em;
+    padding: 22px 30px 22px 30px;
+    font-size: 1.5rem;
+    color: #282828;
+    border-radius: 12px;
+    appearance: none;
+    border: none;
+    background-color: #f9f7ed;
+  }
+  .searchbar:focus {
+    outline: none;
+  }
+  .searchbar::placeholder {
+    color: #282828;
+    font-weight: 600;
+  }
+  
+  .button_holder {
+    display: flex;
+    justify-content: center;
+    gap: 4em;
+    width: 800px;
+    align-items: center;
+    margin-bottom: 2em;
+  }
+  
+  .install_button {
+    background-color: #282828;
+    color: white;
+    border-radius: 12px;
+    padding: 1em 3em 1em 3em;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    flex: 0 1 auto;
+  }
+  .gettingstarted_button {
+    border: 2px solid #282828;
+    color: #282828;
+    border-radius: 12px;
+    padding: 1em 2em 1em 2em;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    flex: 0 1 160px;
+  }
+  

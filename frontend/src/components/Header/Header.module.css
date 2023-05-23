@@ -1,0 +1,25 @@
+.navbar {
+    margin-top: 4vh;
+    background-color: #282828;
+    width: 70vw;
+    min-height: 3vh;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .navbar_element {
+    color: white;
+    text-align: left;
+    padding: 2em 3em 2em 3em; /*top right bottom left*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  
+  .heading {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3rem;
+  }

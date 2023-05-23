@@ -1,0 +1,13 @@
+.install_button {
+    background-color: #282828;
+    border: none;
+    color: white;
+    border-radius: 12px;
+    padding: 1em 3em 1em 3em;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    flex: 0 1 auto;
+    appearance: none;
+  }
